@@ -1,0 +1,12 @@
+{
+  "Lua.diagnostics.disable": ["lowercase-global", "deprecated"],
+  "Lua.diagnostics.disableScheme": [
+    "git",
+    "_DEV",
+    "build",
+    "./build\\_combined.lua",
+    "build/",
+    "build/*",
+    "build/**/*"
+  ]
+}

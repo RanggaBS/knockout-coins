@@ -1,0 +1,24 @@
+# my stuff
+_DEV
+
+# types & function definitions
+types
+
+# misc..
+addons
+# compiled LUR files
+_build/*.lur
+_build/**/*.lur
+config/*.lur
+
+# object models
+_models
+
+# mod file releases
+_release
+
+# NexusMods BB Code description
+modpage.bbc
+
+# file trees
+_tree.txt
